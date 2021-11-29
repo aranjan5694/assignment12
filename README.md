@@ -1,3 +1,1 @@
-# assignment12
-
-** React - Getting Started **
+# assignment12 - React - Getting Started
